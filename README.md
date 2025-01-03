@@ -7,4 +7,4 @@ Tested on `BGW320-500` under python 3.13.
 
 Migrated to `uv` for virtual machine management:
 
-% uv run att-reboot.py -a <device code>
+% uv run att-reboot.py -a `<device code>`
