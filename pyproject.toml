@@ -1,0 +1,10 @@
+[project]
+name = "att-router-reboot"
+version = "0.1.0"
+description = "Simple ATT Router Reboot Script for BGW320-500 and BGW210"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "lxml[html-clean]>=5.3.0",
+    "requests-html>=0.10.0",
+]
