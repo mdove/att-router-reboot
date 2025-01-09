@@ -3,7 +3,7 @@
 # dependencies = [
 #   "requests_html"
 # ]
-#///
+# ///
 
 import argparse
 import hashlib
