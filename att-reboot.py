@@ -1,3 +1,10 @@
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#   "requests_html"
+# ]
+#///
+
 import argparse
 import hashlib
 from requests_html import HTMLSession
