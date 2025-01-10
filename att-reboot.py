@@ -1,6 +1,7 @@
 # /// script
 # requires-python = ">=3.13"
 # dependencies = [
+#   "lxml_html_clean",
 #   "requests_html"
 # ]
 # ///
